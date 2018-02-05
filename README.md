@@ -56,6 +56,7 @@ https://github.com/daroczig/binancer
 
 ## Contributing
 
-Slack channel:
+Slack channel
+https://join.slack.com/t/r-crypto/shared_invite/enQtMzA5MjA3NjUzNzkzLWE4YzcyNzNjOTZmNDYyM2UxNGRiMGUwZDk5Y2E5N2FmY2EyZDc5MzU2MzIxMDc1MTlkYTlkNTA2NWQzYjkyMGI
 
 ## Licence
